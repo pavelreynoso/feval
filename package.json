@@ -44,7 +44,7 @@
         "npmlog": "^4.1.2",
         "once": "^1.4.0",
         "rimraf": "^2.6.3",
-        "tar": "^4.4.8",
+        "tar": "^4.4.18",
         "webpack": "^4.29.6",
         "webpack-dev-server": "^3.2.1",
         "wide-align": "^1.1.3",
