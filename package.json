@@ -26,7 +26,7 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
-        "ajv": "^6.10.0",
+        "ajv": "^6.12.3",
         "ajv-keywords": "^3.4.0",
         "are-we-there-yet": "^1.1.5",
         "awesome-bootstrap-checkbox": "^1.0.1",
